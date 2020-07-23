@@ -1,0 +1,10 @@
+D:\Coding!\C#\Maze_Game\bin\Debug\Maze_Game.exe.config
+D:\Coding!\C#\Maze_Game\bin\Debug\Maze_Game.exe
+D:\Coding!\C#\Maze_Game\bin\Debug\Maze_Game.pdb
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.csprojAssemblyReference.cache
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.Form1.resources
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.Properties.Resources.resources
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.csproj.GenerateResource.cache
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.csproj.CoreCompileInputs.cache
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.exe
+D:\Coding!\C#\Maze_Game\obj\Debug\Maze_Game.pdb
